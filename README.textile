@@ -1,0 +1,3 @@
+Second part (retrieval) of voting records from Spanish Congreso (Lower House of Parliament). Source congreso.es .
+
+Should be cited using: Škop, Michal: Voting records from Spanish Congress since 2012. KohoVolit.eu 2013. + link to this page
