@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 // retrieval for https://scraperwiki.com/scrapers/es_congreso_voting_records_downloader
 
